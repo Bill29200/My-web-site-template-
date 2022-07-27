@@ -4,4 +4,4 @@
 
 ![This is an image](https://github.com/Bill29200/www.nabil.kadjouh.com/blob/master/imgs/b4.jpg)
 
-## `#RR0000` Bill
+## #RR0000 Bill
